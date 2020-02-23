@@ -2,4 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
-@import "./vibesstyle";
+
+#header,
+#title {
+  display: none;
+}
+
+body {
+  background-color: black;
+  .wrapper,
+  section {
+    max-width: 1024px;
+    margin-top: 20px;
+  }
+  img[alt="Ultravibes"] {
+    height: 200px;
+    margin: -90px calc(50% - 200px) -70px;
+  }
+  img[alt="band-member"] {
+    width: 250px;
+    display: block;
+  }
+}
