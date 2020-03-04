@@ -1,8 +1,8 @@
 ![Ultravibes](https://scontent.fbos1-1.fna.fbcdn.net/v/t1.0-9/55492985_332890087357228_108962916572594176_o.jpg?_nc_cat=100&_nc_sid=6e5ad9&_nc_ohc=apxkqkfxRhYAX9g1FpF&_nc_ht=scontent.fbos1-1.fna&oh=54b5f0af0fe6447625510dfca9c4efb6&oe=5EC0F420)
 
-| &nbsp;               | &nbsp;             | &nbsp;         | &nbsp; | &nbsp;                                             |
-| -------------------- | ------------------ | -------------- | ------ | -------------------------------------------------- |
-| [Home](./index.html) | [The Band](./band) | [Gigs](./gigs) | Media  | [Social](https://www.facebook.com/UltraVibesBand/) |
+| &nbsp;               | &nbsp;             | &nbsp;         | &nbsp; | &nbsp;                                                                | &nbsp;               |
+| -------------------- | ------------------ | -------------- | ------ | --------------------------------------------------------------------- | -------------------- |
+| [Home](./index.html) | [The Band](./band) | [Gigs](./gigs) | Media  | [Social](https://www.facebook.com/UltraVibesBand/){:target="\_blank"} | [Contact](./contact) |
 
 ![](https://scontent.fbos1-1.fna.fbcdn.net/v/t1.0-9/85109095_518621768784058_6843894059619057664_n.jpg?_nc_cat=102&_nc_sid=a61e81&_nc_ohc=KyyoFt1SOqIAX8Iev0V&_nc_ht=scontent.fbos1-1.fna&oh=cd935e97721346871f6d3300eb22fa84&oe=5EC4A01E)
 
