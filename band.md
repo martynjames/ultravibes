@@ -24,12 +24,12 @@ Steve's flying fingers grace the high end of the group. From gritty rythms to sc
 
 ### John Kaselis - Drums, Percussion
 
-![band-member](https://scontent.fbos1-1.fna.fbcdn.net/v/t1.0-9/49864983_10218404589164650_2105390365749018624_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=hyUjPFKoy7oAX9_70Wz&_nc_ht=scontent.fbos1-1.fna&oh=0cfff16538f5b70d9ae87fc4ec4d2884&oe=5EEF5B4B)
+![band-member](./assets/img/john_profile.jpg)
 JK provides the backbone to the band, providing the grooves and the smiles!
 
 ### Marty James - Bass
 
-![band-member](https://scontent.fbos1-1.fna.fbcdn.net/v/t1.0-9/35199153_10214991374010543_6872692863310757888_n.jpg?_nc_cat=106&_nc_sid=85a577&_nc_ohc=gcu8liwx5E0AX93zbqD&_nc_ht=scontent.fbos1-1.fna&oh=fb9ac0140fda8c8f6d34400d15626ffa&oe=5EFBF742)
+![band-member](./assets/img/marty_profile.jpg)
 Marty holds down the low-end - his job is to keep you on the dance floor!
 
 ## Reviews
